@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1574830918 source:c:\users\kelvi\onedrive\Área de trabalho\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	<conio.h>
+	<math.h>
+	<string.h>
+
+1574826666 source:c:\users\kelvi\onedrive\Área de trabalho\pim\util.c
+	<windows.h>
+
+1574826674 c:\users\kelvi\onedrive\Área de trabalho\pim\util.h
+
+1574531034 source:c:\users\kelvi\onedrive\documentos\pim\util.c
+	<windows.h>
+
+1574535890 source:c:\users\kelvi\onedrive\documentos\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	<conio.h>
+	<math.h>
+
+1574531017 c:\users\kelvi\onedrive\documentos\pim\util.h
+
